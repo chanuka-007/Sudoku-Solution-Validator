@@ -1,0 +1,28 @@
+#  Operating Systems – Assignment 1 (COMP 2006)
+
+**Name:** Marakandage Chanuka Desitha Perera  
+
+
+---
+
+## 📘 Overview
+
+This assignment implements a Sudoku solution validator written in C.  
+The program reads a Sudoku grid from a text file and checks whether the solution is valid, using synchronization techniques discussed in Operating Systems.
+
+---
+
+##  Files Included
+
+- **mssv.c** – C program that validates the Sudoku solution  
+- **solution.txt** – Sample Sudoku solution input file  
+
+
+---
+
+##  How to Compile
+
+Use GCC to compile the program:
+
+```bash
+gcc mssv.c -o mssv
