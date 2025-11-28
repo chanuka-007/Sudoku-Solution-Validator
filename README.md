@@ -25,4 +25,5 @@ The program reads a Sudoku grid from a text file and checks whether the solution
 Use GCC to compile the program:
 
 ```bash
+
 gcc mssv.c -o mssv
